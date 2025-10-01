@@ -1,8 +1,6 @@
 # Astralynx-Tri-Phase_Modular_Recycler
 The Integrated Tri-Phase Modular Recycler (iTPMR) is a compact system for Martian missions that recycles plastic, metal, and foam/fabric waste into usable materials. By creating a closed-loop ecosystem, it reduces reliance on Earth resupply and supports sustainable, self-sufficient living on Mars.
 
-Integrated Tri-Phase Modular Recycler (iTPMR)
-
 The Integrated Tri-Phase Modular Recycler (iTPMR) is a conceptual system designed for long-duration Martian missions. It combines the functionality of three recycling systems—plastic, metal, and foam/fabric—into a single, compact, and efficient unit.
 
 🚀 Project Goal
