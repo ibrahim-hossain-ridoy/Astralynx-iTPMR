@@ -1,10 +1,34 @@
-# Astralynx-Tri-Phase_Modular_Recycler
-The Integrated Tri-Phase Modular Recycler (iTPMR) is a compact system for Martian missions that recycles plastic, metal, and foam/fabric waste into usable materials. By creating a closed-loop ecosystem, it reduces reliance on Earth resupply and supports sustainable, self-sufficient living on Mars.
+# Astralynx: Integrated Tri-Phase Modular Recycler (iTPMR)
+The **Integrated Tri-Phase Modular Recycler (iTPMR)** is a conceptual system designed for **long-duration Martian missions**. It combines the functionality of three recycling systems—**plastic, metal, and foam/fabric**—into a single, compact, and efficient unit.  
 
 ---
-![552878807_1971168643736807_7012615784262709709_n](https://github.com/user-attachments/assets/2b894f48-4555-4521-80bb-eb1ad0784af9)
 
+## 👥 Meet Our Team — *Astralynx* (Bangladesh)
+
+<img width="3780" height="1890" alt="Team Banner" src="https://github.com/user-attachments/assets/9891bdbb-adb1-4ff7-9ae3-de35f5bbc3ba" />
+
+We are **Team Astralynx** from Bangladesh, participating in the **NASA Space Apps Challenge 2024** with our project **Integrated Tri-Phase Modular Recycler (iTPMR)**.  
+Our team brings together diverse skills in research, design, programming, and storytelling to develop innovative solutions for space sustainability.  
+
+### 🔹 Team Members
+
+**🧑‍💻 Ibrahim Hossain Ridoy** — *Team Leader, Researcher*  
+Leads the team with a focus on project vision, coordination, and technical research. Responsible for designing the iTPMR’s concept framework and ensuring scientific accuracy.
+
+**🎨 Rafiulla Bari** — *Video Editor, 3D Artist*  
+Specializes in visual storytelling and 3D modeling. Creates engaging animations, visual prototypes, and multimedia presentations to communicate the iTPMR concept effectively.
+
+**📊 Amir Hamja** — *Researcher, Data Analyst*  
+Handles data collection, analysis, and interpretation. Ensures the project is backed by solid data-driven insights and contributes to technical validation of recycling methods.
+
+**💻 Masuma Islam** — *Programmer, Script Writer*  
+Combines coding and creative writing skills. Contributes to the technical implementation and documentation while also crafting compelling narratives for the project presentation.
+
+✨ Together, we aim to design sustainable solutions that will empower future space missions and inspire innovation back on Earth.  
+
+---
 # 🌌 Integrated Tri-Phase Modular Recycler (iTPMR)
+---
 
 The **Integrated Tri-Phase Modular Recycler (iTPMR)** is a conceptual system designed for **long-duration Martian missions**. It combines the functionality of three recycling systems—**plastic, metal, and foam/fabric**—into a single, compact, and efficient unit.  
 
