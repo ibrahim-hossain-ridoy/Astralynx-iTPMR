@@ -28,8 +28,6 @@ Combines coding and creative writing skills. Contributes to the technical implem
 
 ---
 # 🌌 Integrated Tri-Phase Modular Recycler (iTPMR)
----
-[Tri-Phase-Modular-Recycler-TPMR.pdf](https://github.com/user-attachments/files/22678828/Tri-Phase-Modular-Recycler-TPMR.pdf)
 
 The **Integrated Tri-Phase Modular Recycler (iTPMR)** is a conceptual system designed for **long-duration Martian missions**. It combines the functionality of three recycling systems—**plastic, metal, and foam/fabric**—into a single, compact, and efficient unit.  
 
