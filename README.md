@@ -5,7 +5,7 @@ The **Integrated Tri-Phase Modular Recycler (iTPMR)** is a conceptual system des
 
 ## 👥 Meet Our Team — *Astralynx* (Bangladesh)
 
-<img width="3780" height="1890" alt="Team Banner" src="https://github.com/user-attachments/assets/9891bdbb-adb1-4ff7-9ae3-de35f5bbc3ba" />
+<img width="7559" height="3779" alt="Main Banner" src="https://github.com/user-attachments/assets/c53c4822-2319-4905-8092-4b3a80c37c5b" />
 
 We are **Team Astralynx** from Bangladesh, participating in the **NASA Space Apps Challenge 2024** with our project **Integrated Tri-Phase Modular Recycler (iTPMR)**.  
 Our team brings together diverse skills in research, design, programming, and storytelling to develop innovative solutions for space sustainability.  
