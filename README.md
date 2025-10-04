@@ -27,33 +27,92 @@ Combines coding and creative writing skills. Contributes to the technical implem
 ✨ Together, we aim to design sustainable solutions that will empower future space missions and inspire innovation back on Earth.  
 
 ---
-# 🌌 Integrated Tri-Phase Modular Recycler (iTPMR)
 
-The **Integrated Tri-Phase Modular Recycler (iTPMR)** is a conceptual system designed for **long-duration Martian missions**. It combines the functionality of three recycling systems—**plastic, metal, and foam/fabric**—into a single, compact, and efficient unit.  
+# 🚀 Integrated Tri-Phase Modular Recycler (iTPMR)
 
-## 🚀 Project Goal  
-The iTPMR aims to create a **closed-loop recycling ecosystem** that reduces reliance on costly and infrequent **resupply missions from Earth**. By transforming waste into reusable raw materials, astronauts can support **on-site manufacturing, equipment repair, and habitat construction**, making human presence on Mars more **sustainable and self-sufficient**.  
-
----
-
-## 🔧 Features  
-- **Multi-material processing**: Handles plastics, metals, and foam/fabric waste  
-- **Compact & robust design**: Optimized for limited Martian habitat space  
-- **Closed-loop recycling**: Converts waste into usable raw materials  
-- **Supports mission longevity**: Reduces dependency on Earth resupply  
+Team Astralynx | NASA International Space Apps Challenge 2025  
+Challenge: Space Trash Hack  
 
 ---
 
-## 🌌 Why It Matters  
-Waste management and resource utilization are **critical challenges** for extraterrestrial missions. The iTPMR addresses both by transforming discarded materials into valuable resources—helping pave the way for **long-term human settlement on Mars**.  
+## 🌍 Project Overview  
+
+The Integrated Tri-Phase Modular Recycler (iTPMR) is our solution for the Space Trash Hack challenge at the NASA International Space Apps Challenge 2025.  
+
+Long-duration missions on Mars face a critical issue: waste accumulation and resupply dependence. Traditional systems use separate machines for plastics, metals, and soft materials. Our innovation consolidates these into a single, modular, and compact unit that transforms waste into valuable resources for astronauts, fostering a closed-loop ecosystem on the Martian surface.  
+
+The iTPMR helps ensure sustainability, self-sufficiency, and reduced reliance on Earth-based resupply missions.  
 
 ---
 
-## 📂 Project Status  
-This repository serves as the home for:  
-- 📄 Concept documentation  
-- 🛠️ System design drafts  
-- 🧪 Future simulation and prototype development  
+## 🛰️ Core Objectives  
+
+- ✅ Provide an all-in-one recycling system for plastics, metals, and foam/fabrics.  
+- ✅ Reduce astronaut workload with automated waste sorting and processing.  
+- ✅ Enable in-situ manufacturing with recycled materials (3D printing filament, metal ingots, composite blocks).  
+- ✅ Ensure safety with robust gas filtration and sealed design.  
+- ✅ Minimize payload by integrating multiple machines into one compact unit.  
 
 ---
 
+## 🛠️ Design and Engineering Blueprint  
+
+### ⚙️ Overall Design  
+- Compact modular unit: 2m x 1.5m x 1.8m  
+- Built with high-grade aluminum alloys & titanium  
+- Energy-efficient: 5–6 kW draw from habitat grid  
+
+### 🔄 Shared Waste Input & Sorting  
+- Single intake chamber for all waste  
+- Automated sensors & robotic arms for sorting  
+- Reduces contamination risks and astronaut workload  
+
+### ⚡️ Universal Shredding Unit  
+- One shredder for all material types  
+- Saves space and power compared to separate shredders  
+
+### 🧩 Integrated Processing Modules  
+- Plastics → Melted & extruded into 3D printing filament  
+- Metals → Induction heating to produce reusable ingots/rods  
+- Foam/Fabric → Compressed into durable composite blocks for insulation/structures  
+
+### 🛡️ Centralized Safety & Control  
+- Unified control panel for full-system management  
+- Advanced gas filtration for toxic fumes  
+
+---
+
+## 📚 Relevant NASA Research & Alignment  
+
+Our design builds on NASA’s long-standing research in ISRU, additive manufacturing, and waste management:  
+
+- In-Situ Resource Utilization (ISRU) – [NASA Technical Report](https://ntrs.nasa.gov/api/citations/20120001775/downloads/20120001775.pdf)  
+- 3D Printing in Space – [NASA Article](https://www.nasa.gov/missions/station/iss-research/3d-printing-saving-weight-and-space-at-launch/)  
+- Waste Management Options for Long-Duration Missions – [NASA Technical Report](https://ntrs.nasa.gov/api/citations/20140010284/downloads/20140010284.pdf)  
+- Metal Additive Manufacturing – [SAMPE Digital Library](https://www.digitallibrarynasampe.org/data/pdfs/s2021_pdfs/TP21-0000000427.pdf)  
+
+---
+
+## 📹 Demo Video  
+
+We will provide a demonstration video of the iTPMR prototype/system in this repository. Stay tuned!  
+
+---
+
+## 👨‍🚀 Team Astralynx  
+
+We are Team Astralynx from Bangladesh, proudly participating in the NASA International Space Apps Challenge 2025.  
+
+- 🌌 Passionate about space exploration  
+- 🔧 Focused on sustainable technologies for Mars  
+- 🌍 Dedicated to solving global & interplanetary challenges  
+
+---
+
+## 🏆 Challenge: Space Trash Hack  
+
+How can we tackle the problem of space trash in future Mars missions?  
+
+Our answer: The iTPMR – a compact, modular, and integrated recycler that converts trash into resources, closing the loop on Martian sustainability.  
+
+---
