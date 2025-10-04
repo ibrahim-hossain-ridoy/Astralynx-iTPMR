@@ -93,9 +93,13 @@ Our design builds on NASA’s long-standing research in ISRU, additive manufactu
 
 ---
 
-## 📹 Demo Video  
+## 📹 Demo Video
 
-We will provide a demonstration video of the iTPMR prototype/system in this repository. Stay tuned!  
+🎬 Watch our demonstration of the **iTPMR prototype/system** on YouTube:
+
+[![iTPMR Demo Video](https://img.youtube.com/vi/35k51J84Ulo/0.jpg)](https://youtu.be/35k51J84Ulo)
+
+👉 Or click here: [https://youtu.be/35k51J84Ulo](https://youtu.be/35k51J84Ulo)
 
 ---
 
