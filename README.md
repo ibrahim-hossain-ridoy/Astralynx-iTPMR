@@ -163,10 +163,15 @@ iTPMR-NASA-SpaceApps/
 └── README.md
 ```
 ---
-## ⚙️ Installation & Running Locally 1. **Clone the repository**
-```
+## ⚙️ Installation & Running Locally
+1. **Clone the repository**
+```bash
    git clone https://github.com/YOUR_USERNAME/iTPMR-NASA-SpaceApps.git
    cd iTPMR-NASA-SpaceApps
+```
+2. **Install dependencies**
+```bash
+   pip3 install -r requirements.txt111
 ```
 ---
 ## 🧭 Challenge: *Space Trash Hack*  
