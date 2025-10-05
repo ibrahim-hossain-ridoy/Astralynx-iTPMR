@@ -111,19 +111,19 @@ The simulation is hosted as an **interactive Streamlit web app**, allowing users
 </p>
 
 <p align="center">
-  <img alt="iTPMR Component Diagram" src="[https://github.com/user-attachments/assets/8b2da33a-bb63-43c5-b11a-987884a3f0e1](https://github.com/user-attachments/assets/21182c81-4967-4ebd-8eea-4a687faff0ec)" width="45%"/>
+  <img alt="iTPMR Component Diagram" src="https://github.com/user-attachments/assets/21182c81-4967-4ebd-8eea-4a687faff0ec" width="45%"/>
   <br>
   <em>Figure 2: iTPMR Component Diagram.</em>
 </p>
 
 <p align="center">
-  <img alt="iTPMR Martian Closed Loop Cycle Diagram" src="[https://github.com/user-attachments/assets/8b2da33a-bb63-43c5-b11a-987884a3f0e1](https://github.com/user-attachments/assets/16ea97ff-b605-472b-8d6d-4b634605ee44)" width="45%"/>
+  <img alt="iTPMR Martian Closed Loop Cycle Diagram" src="https://github.com/user-attachments/assets/16ea97ff-b605-472b-8d6d-4b634605ee44 " width="45%"/>
   <br>
   <em>Figure 3: iTPMR Martian Closed Loop Cycle Diagram.</em>
 </p>
 
 <p align="center">
-  <img alt="iTPMR Modular Component Diagram" src="[https://github.com/user-attachments/assets/8b2da33a-bb63-43c5-b11a-987884a3f0e1](https://github.com/user-attachments/assets/42873842-1573-4c22-b8e4-03e2e1b31d4d)" width="45%"/>
+  <img alt="iTPMR Modular Component Diagram" src="https://github.com/user-attachments/assets/42873842-1573-4c22-b8e4-03e2e1b31d4d" width="45%"/>
   <br>
   <em>Figure 4: iTPMR Modular Component Diagram.</em>
 </p>
