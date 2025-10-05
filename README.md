@@ -141,22 +141,21 @@ Our proposal is inspired by and aligned with NASA’s ongoing work in **In-Situ 
 ## 🧩 Repository Structure  
 
 iTPMR-NASA-SpaceApps/
-├── app.py # Streamlit web interface
+├── app.py                # Streamlit web interface
 ├── simulation/
-│ ├── plastic_module.py
-│ ├── metal_module.py
-│ ├── foam_module.py
-│ ├── power_model.py
-│ └── gas_filtration.py
+│   ├── plastic_module.py
+│   ├── metal_module.py
+│   ├── foam_module.py
+│   ├── power_model.py
+│   └── gas_filtration.py
 ├── data/
-│ ├── sample_inputs.csv
-│ └── output_logs/
+│   ├── sample_inputs.csv
+│   └── output_logs/
 ├── assets/
-│ ├── diagrams/
-│ └── icons/
+│   ├── diagrams/
+│   └── icons/
 ├── requirements.txt
 └── README.md
-
 ---
 
 ## 🧭 Challenge: *Space Trash Hack*  
