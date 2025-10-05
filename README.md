@@ -139,7 +139,7 @@ Our proposal is inspired by and aligned with NASA’s ongoing work in **In-Situ 
 ---
 
 ## 🧩 Repository Structure  
-
+'''
 iTPMR-NASA-SpaceApps/
 ├── app.py                     # Streamlit web interface (entrypoint)
 ├── simulation/
@@ -161,7 +161,7 @@ iTPMR-NASA-SpaceApps/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-
+'''
 ---
 
 ## 🧭 Challenge: *Space Trash Hack*  
