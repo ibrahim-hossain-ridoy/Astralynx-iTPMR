@@ -138,6 +138,17 @@ Our proposal is inspired by and aligned with NASA’s ongoing work in **In-Situ 
 
 ---
 
+## 🧩 CAD Model & 3D Design
+
+We have published the **iTPMR 3D model** on GrabCAD, available for viewing and download:
+
+[Integrated Tri-Phase Modular Recycler on GrabCAD](https://grabcad.com/library/integrated-tri-phase-modular-recycler-2)
+
+The CAD files include body housing, modular components, and internal subsystems (shredder, sorters, filtration units, etc.).  
+Feel free to explore, comment, or download for further visualization, modification, or simulation purposes.
+
+---
+
 ## 🧩 Repository Structure  
 ```
 iTPMR-NASA-SpaceApps/
