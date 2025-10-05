@@ -105,45 +105,27 @@ The simulation is hosted as an **interactive Streamlit web app**, allowing users
 
 ### 🖼️ Concept Visualization  
 <p align="center">
-  <img alt="iTPMR Blueprint" src="https://github.com/user-attachments/assets/8b2da33a-bb63-43c5-b11a-987884a3f0e1" width="45%"/>
+  <img alt="iTPMR Blueprint" src="https://github.com/user-attachments/assets/8b2da33a-bb63-43c5-b11a-987884a3f0e1" width="60%"/>
   <br>
   <em>Figure 1: iTPMR Blueprint.</em>
 </p>
 
 <p align="center">
-  <img alt="Universal Shredding Unit" src="https://github.com/user-attachments/assets/a92b0d31-7c27-4044-ab2d-8244f18e5236" width="45%"/>
+  <img alt="iTPMR Component Diagram" src="[https://github.com/user-attachments/assets/8b2da33a-bb63-43c5-b11a-987884a3f0e1](https://github.com/user-attachments/assets/21182c81-4967-4ebd-8eea-4a687faff0ec)" width="45%"/>
   <br>
-  <em>Figure 2: Universal Shredding Unit.</em>
+  <em>Figure 2: iTPMR Component Diagram.</em>
 </p>
 
 <p align="center">
-  <img alt="Plastic Recycling Module" src="https://github.com/user-attachments/assets/8ce118fb-8e73-4a52-87f2-0185c2c7938c" width="45%"/>
+  <img alt="iTPMR Martian Closed Loop Cycle Diagram" src="[https://github.com/user-attachments/assets/8b2da33a-bb63-43c5-b11a-987884a3f0e1](https://github.com/user-attachments/assets/16ea97ff-b605-472b-8d6d-4b634605ee44)" width="45%"/>
   <br>
-  <em>Figure 3: Plastic Recycling Module.</em>
+  <em>Figure 3: iTPMR Martian Closed Loop Cycle Diagram.</em>
 </p>
 
 <p align="center">
-  <img alt="Metal Recycling Module" src="https://github.com/user-attachments/assets/1048c9dc-6d38-4cdb-a6ba-73988d2bcb88" width="45%"/>
+  <img alt="iTPMR Modular Component Diagram" src="[https://github.com/user-attachments/assets/8b2da33a-bb63-43c5-b11a-987884a3f0e1](https://github.com/user-attachments/assets/42873842-1573-4c22-b8e4-03e2e1b31d4d)" width="45%"/>
   <br>
-  <em>Figure 4: Metal Recycling Module.</em>
-</p>
-
-<p align="center">
-  <img alt="Foam and Plastic Melting Unit" src="https://github.com/user-attachments/assets/cea7329a-f34c-472c-8365-ab519a9fe9f4" width="45%"/>
-  <br>
-  <em>Figure 5: Foam and Plastic Melting Unit.</em>
-</p>
-
-<p align="center">
-  <img alt="Centralized Control and Power System" src="https://github.com/user-attachments/assets/463ef152-5df8-4510-bf80-03f52b31dbd3" width="45%"/>
-  <br>
-  <em>Figure 6: Centralized Control and Power System.</em>
-</p>
-
-<p align="center">
-  <img alt="Unified Gas Filtration Unit" src="https://github.com/user-attachments/assets/5b27a8ca-55ad-4c2d-97f5-a5420a5c6fdb" width="45%"/>
-  <br>
-  <em>Figure 7: Unified Gas Filtration Unit.</em>
+  <em>Figure 4: iTPMR Modular Component Diagram.</em>
 </p>
 
 ### 🔄 Shared Waste Input & Sorting  
@@ -155,14 +137,53 @@ The simulation is hosted as an **interactive Streamlit web app**, allowing users
 - Handles all material types efficiently  
 - Optimizes energy and space compared to multi-unit systems  
 
+<p align="center">
+  <img alt="Universal Shredding Unit" src="https://github.com/user-attachments/assets/a92b0d31-7c27-4044-ab2d-8244f18e5236" width="45%"/>
+  <br>
+  <em>Figure 5: Universal Shredding Unit.</em>
+</p>
+
 ### 🧩 Recycling Modules  
-- **Plastic Module** → Extrudes filament for 3D printing  
-- **Metal Module** → Induction melts and reforms metals into rods or ingots  
+- **Plastic Module** → Extrudes filament for 3D printing
+
+<p align="center">
+  <img alt="Plastic Recycling Module" src="https://github.com/user-attachments/assets/8ce118fb-8e73-4a52-87f2-0185c2c7938c" width="45%"/>
+  <br>
+  <em>Figure 6: Plastic Recycling Module.</em>
+</p>
+
+- **Metal Module** → Induction melts and reforms metals into rods or ingots
+
+<p align="center">
+  <img alt="Metal Recycling Module" src="https://github.com/user-attachments/assets/1048c9dc-6d38-4cdb-a6ba-73988d2bcb88" width="45%"/>
+  <br>
+  <em>Figure 7: Metal Recycling Module.</em>
+</p>
+
 - **Foam/Fabric Module** → Compresses materials into composite insulation blocks  
 
+<p align="center">
+  <img alt="Foam and Plastic Melting Unit" src="https://github.com/user-attachments/assets/cea7329a-f34c-472c-8365-ab519a9fe9f4" width="45%"/>
+  <br>
+  <em>Figure 8: Foam and Plastic Melting Unit.</em>
+</p>
+
 ### 🛡️ Control & Safety Systems  
-- Unified command panel with telemetry feedback  
+- Unified command panel with telemetry feedback
+
+<p align="center">
+  <img alt="Centralized Control and Power System" src="https://github.com/user-attachments/assets/463ef152-5df8-4510-bf80-03f52b31dbd3" width="45%"/>
+  <br>
+  <em>Figure 9: Centralized Control and Power System.</em>
+</p>
+  
 - Advanced filtration system neutralizes harmful gases and particulates  
+
+<p align="center">
+  <img alt="Unified Gas Filtration Unit" src="https://github.com/user-attachments/assets/5b27a8ca-55ad-4c2d-97f5-a5420a5c6fdb" width="45%"/>
+  <br>
+  <em>Figure 10: Unified Gas Filtration Unit.</em>
+</p>
 
 ---
 
