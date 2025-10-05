@@ -1,122 +1,183 @@
-# Astralynx: Integrated Tri-Phase Modular Recycler (iTPMR)
-The **Integrated Tri-Phase Modular Recycler (iTPMR)** is a conceptual system designed for **long-duration Martian missions**. It combines the functionality of three recycling systems—**plastic, metal, and foam/fabric**—into a single, compact, and efficient unit.  
+# 🪐 **Astralynx: Integrated Tri-Phase Modular Recycler (iTPMR)**  
+### *NASA International Space Apps Challenge 2025 — Space Trash Hack*  
+**Team:** Astralynx (Bangladesh)
 
 ---
 
-## 👥 Meet Our Team — *Astralynx* (Bangladesh)
+## 🚀 Project Summary  
 
-<img width="7559" height="3779" alt="Team Bnner Updated" src="https://github.com/user-attachments/assets/a0340aff-9d9d-4f1b-ba2c-4787b8afc030" />
+The **Integrated Tri-Phase Modular Recycler (iTPMR)** is a conceptual system engineered for **long-duration Martian missions**.  
+It unifies **plastic**, **metal**, and **foam/fabric** recycling into a **single, modular, and efficient unit**, addressing waste management challenges and enabling sustainable resource reuse on Mars.  
 
-We are **Team Astralynx** from Bangladesh, participating in the **NASA Space Apps Challenge 2024** with our project **Integrated Tri-Phase Modular Recycler (iTPMR)**.  
-Our team brings together diverse skills in research, design, programming, and storytelling to develop innovative solutions for space sustainability.  
+By transforming waste into usable materials such as **3D printing filament**, **metal ingots**, and **composite blocks**, the iTPMR supports a **closed-loop ecosystem**, minimizing reliance on costly resupply missions from Earth and promoting a self-sustaining Martian habitat.  
+
+---
+
+## 👥 Meet Our Team — *Astralynx* 🇧🇩
+
+<img width="7559" height="3779" alt="Team Astralynx" src="https://github.com/user-attachments/assets/a0340aff-9d9d-4f1b-ba2c-4787b8afc030" />
+
+We are **Team Astralynx** from Bangladesh, competing in the **NASA International Space Apps Challenge 2025** under the *Space Trash Hack* category.  
+Our team combines diverse expertise in **research, programming, data modeling, 3D visualization, and creative design** — united by a shared mission to make space sustainability achievable.  
 
 ### 🔹 Team Members
 
 **🧑‍💻 Ibrahim Hossain Ridoy** — *Team Leader, Researcher*  
-Leads the team with a focus on project vision, coordination, and technical research. Responsible for designing the iTPMR’s concept framework and ensuring scientific accuracy.
+Guides the project vision, oversees integration between engineering and scientific domains, and develops the system’s conceptual and simulation framework.  
 
 **🎨 Rafiulla Bari** — *Video Editor, 3D Artist*  
-Specializes in visual storytelling and 3D modeling. Creates engaging animations, visual prototypes, and multimedia presentations to communicate the iTPMR concept effectively.
+Designs realistic 3D models and animations for system visualization, ensuring complex mechanisms are communicated with clarity and creativity.  
 
 **📊 Amir Hamja** — *Researcher, Data Analyst*  
-Handles data collection, analysis, and interpretation. Ensures the project is backed by solid data-driven insights and contributes to technical validation of recycling methods.
+Performs analytical modeling and validation using data-driven approaches, aligning the iTPMR’s operational parameters with NASA’s ISRU methodologies.  
 
 **💻 Masuma Islam** — *Programmer, Script Writer*  
-Combines coding and creative writing skills. Contributes to the technical implementation and documentation while also crafting compelling narratives for the project presentation.
+Develops simulation scripts, supports data visualization, and crafts narrative and documentation content for technical and general audiences.  
 
-✨ Together, we aim to design sustainable solutions that will empower future space missions and inspire innovation back on Earth.  
-
----
-
-# 🚀 Integrated Tri-Phase Modular Recycler (iTPMR)
-
-Team Astralynx | NASA International Space Apps Challenge 2025  
-Challenge: Space Trash Hack  
-
----
-
-## 🌍 Project Overview  
-
-The Integrated Tri-Phase Modular Recycler (iTPMR) is our solution for the Space Trash Hack challenge at the NASA International Space Apps Challenge 2025.  
-
-Long-duration missions on Mars face a critical issue: waste accumulation and resupply dependence. Traditional systems use separate machines for plastics, metals, and soft materials. Our innovation consolidates these into a single, modular, and compact unit that transforms waste into valuable resources for astronauts, fostering a closed-loop ecosystem on the Martian surface.  
-
-The iTPMR helps ensure sustainability, self-sufficiency, and reduced reliance on Earth-based resupply missions.  
+✨ *Together, we’re designing sustainable solutions for Mars — and inspiration for Earth.*  
 
 ---
 
 ## 🛰️ Core Objectives  
 
-- ✅ Provide an all-in-one recycling system for plastics, metals, and foam/fabrics.  
-- ✅ Reduce astronaut workload with automated waste sorting and processing.  
-- ✅ Enable in-situ manufacturing with recycled materials (3D printing filament, metal ingots, composite blocks).  
-- ✅ Ensure safety with robust gas filtration and sealed design.  
-- ✅ Minimize payload by integrating multiple machines into one compact unit.  
+- ♻️ **All-in-one recycling system** for plastics, metals, and foam/fabric waste  
+- 🤖 **Automated sorting & modular processing** for reduced astronaut workload  
+- 🧱 **Enable in-situ manufacturing** using recycled outputs  
+- 🫧 **Integrated gas filtration** for emission control and safety  
+- 🚧 **Compact modular design** to minimize payload and power consumption  
 
 ---
 
-## 🛠️ Design and Engineering Blueprint  
+## 🧠 Simulation Description  
 
-### ⚙️ Overall Design  
-- Compact modular unit: 2m x 1.5m x 1.8m  
-- Built with high-grade aluminum alloys & titanium  
-- Energy-efficient: 5–6 kW draw from habitat grid  
+The **iTPMR Web Simulator** is a data-driven model that demonstrates how the system would function over time under Martian conditions.  
+It uses **realistic engineering assumptions** to calculate recycling efficiency, energy usage, and material recovery across modules.  
+
+### 🔍 Simulation Capabilities  
+
+- **Waste Processing Rate** — Predicts how efficiently different material types are recycled per day/week of mission operation.  
+- **Power Consumption Model** — Estimates energy requirements per subsystem (shredder, heater, extrusion unit, etc.).  
+- **Recycling Efficiency Metrics** — Evaluates conversion rates from waste to usable material.  
+- **Gas Filtration & Emission Control** — Simulates air quality improvements and CO₂ reduction within the habitat environment.  
+- **Material Recovery Outputs** — Quantifies how much filament, ingot, or composite material can be produced for in-situ use.  
+
+### 🌐 Web Application  
+
+The simulation is hosted as an **interactive Streamlit web app**, allowing users to:  
+- Adjust mission parameters (waste type, duration, power budget)  
+- Observe dynamic performance graphs and energy analytics  
+- Visualize sustainability impact over extended missions  
+
+---
+
+## 🌍 Features  
+
+- 📊 **Real-time data visualization** via interactive dashboard  
+- 🔋 **Power and efficiency modeling** for each module  
+- 🧱 **Material yield prediction** for filament, ingots, and blocks  
+- 🌫️ **Gas filtration simulation** for astronaut safety  
+- 🧮 **Adjustable mission parameters** for custom scenarios  
+
+---
+
+## 💻 Tech Stack  
+
+| Component | Technology |
+|------------|-------------|
+| **Simulation Engine** | Python 3 |
+| **Web Framework** | Streamlit |
+| **Data Visualization** | Matplotlib |
+| **Modeling & Computation** | NumPy |
+| **Hosting** | Streamlit Cloud / GitHub |
+
+---
+
+## 🛠️ Design & Engineering Blueprint  
+
+### ⚙️ System Overview  
+- Dimensions: **2.0 m × 1.5 m × 1.8 m**  
+- Construction: **Aluminum alloy chassis**, titanium reinforcement  
+- Energy Draw: **~5–6 kW** (from Mars habitat power grid)  
 
 ### 🔄 Shared Waste Input & Sorting  
-- Single intake chamber for all waste  
-- Automated sensors & robotic arms for sorting  
-- Reduces contamination risks and astronaut workload  
+- **Universal intake chamber** for mixed waste  
+- **AI-assisted sorting** with sensors and robotic manipulation  
+- Reduces contamination risks and manual labor  
 
-### ⚡️ Universal Shredding Unit  
-- One shredder for all material types  
-- Saves space and power compared to separate shredders  
+### ⚡ Universal Shredding Unit  
+- Handles all material types efficiently  
+- Optimizes energy and space compared to multi-unit systems  
 
-### 🧩 Integrated Processing Modules  
-- Plastics → Melted & extruded into 3D printing filament  
-- Metals → Induction heating to produce reusable ingots/rods  
-- Foam/Fabric → Compressed into durable composite blocks for insulation/structures  
+### 🧩 Recycling Modules  
+- **Plastic Module** → Extrudes filament for 3D printing  
+- **Metal Module** → Induction melts and reforms metals into rods or ingots  
+- **Foam/Fabric Module** → Compresses materials into composite insulation blocks  
 
-### 🛡️ Centralized Safety & Control  
-- Unified control panel for full-system management  
-- Advanced gas filtration for toxic fumes  
-
----
-
-## 📚 Relevant NASA Research & Alignment  
-
-Our design builds on NASA’s long-standing research in ISRU, additive manufacturing, and waste management:  
-
-- In-Situ Resource Utilization (ISRU) – [NASA Technical Report](https://ntrs.nasa.gov/api/citations/20120001775/downloads/20120001775.pdf)  
-- 3D Printing in Space – [NASA Article](https://www.nasa.gov/missions/station/iss-research/3d-printing-saving-weight-and-space-at-launch/)  
-- Waste Management Options for Long-Duration Missions – [NASA Technical Report](https://ntrs.nasa.gov/api/citations/20140010284/downloads/20140010284.pdf)  
-- Metal Additive Manufacturing – [SAMPE Digital Library](https://www.digitallibrarynasampe.org/data/pdfs/s2021_pdfs/TP21-0000000427.pdf)  
+### 🛡️ Control & Safety Systems  
+- Unified command panel with telemetry feedback  
+- Advanced filtration system neutralizes harmful gases and particulates  
 
 ---
 
-## 📹 Demo Video
+## 📚 NASA Research Alignment  
 
-🎬 Watch our demonstration of the **iTPMR prototype/system** on YouTube:
+Our proposal is inspired by and aligned with NASA’s ongoing work in **In-Situ Resource Utilization (ISRU)**, **additive manufacturing**, and **waste management** for extraterrestrial environments:  
 
-[![iTPMR Demo Video](https://img.youtube.com/vi/35k51J84Ulo/0.jpg)](https://youtu.be/35k51J84Ulo)
-
-👉 Or click here: [https://youtu.be/35k51J84Ulo](https://youtu.be/35k51J84Ulo)
-
----
-
-## 👨‍🚀 Team Astralynx  
-
-We are Team Astralynx from Bangladesh, proudly participating in the NASA International Space Apps Challenge 2025.  
-
-- 🌌 Passionate about space exploration  
-- 🔧 Focused on sustainable technologies for Mars  
-- 🌍 Dedicated to solving global & interplanetary challenges  
+- 🧩 [In-Situ Resource Utilization (ISRU)](https://ntrs.nasa.gov/api/citations/20120001775/downloads/20120001775.pdf)  
+- 🧾 [3D Printing in Space](https://www.nasa.gov/missions/station/iss-research/3d-printing-saving-weight-and-space-at-launch/)  
+- ♻️ [Waste Management Options for Long-Duration Missions](https://ntrs.nasa.gov/api/citations/20140010284/downloads/20140010284.pdf)  
+- ⚙️ [Metal Additive Manufacturing Research](https://www.digitallibrarynasampe.org/data/pdfs/s2021_pdfs/TP21-0000000427.pdf)  
 
 ---
 
-## 🏆 Challenge: Space Trash Hack  
+## 📹 Demo Video  
 
-How can we tackle the problem of space trash in future Mars missions?  
-
-Our answer: The iTPMR – a compact, modular, and integrated recycler that converts trash into resources, closing the loop on Martian sustainability.  
+🎥 **Experience the iTPMR Simulation and Prototype Overview:**  
+[![iTPMR Demo Video](https://img.youtube.com/vi/35k51J84Ulo/0.jpg)](https://youtu.be/35k51J84Ulo)  
+👉 Watch here: [https://youtu.be/35k51J84Ulo](https://youtu.be/35k51J84Ulo)
 
 ---
+
+## 🧩 Repository Structure  
+
+iTPMR-NASA-SpaceApps/
+├── app.py # Streamlit web interface
+├── simulation/
+│ ├── plastic_module.py
+│ ├── metal_module.py
+│ ├── foam_module.py
+│ ├── power_model.py
+│ └── gas_filtration.py
+├── data/
+│ ├── sample_inputs.csv
+│ └── output_logs/
+├── assets/
+│ ├── diagrams/
+│ └── icons/
+├── requirements.txt
+└── README.md
+
+---
+
+## 🧭 Challenge: *Space Trash Hack*  
+
+**Question:**  
+> How can we address the issue of space trash and waste management in future Mars missions?  
+
+**Our Answer:**  
+> The **iTPMR** — a compact, intelligent, and integrated recycler that transforms waste into usable materials, closing the resource loop for sustainable Martian living.  
+
+---
+
+## 🌌 Vision  
+
+> “What we waste on Earth, we reuse on Mars.”  
+
+Through **innovation**, **collaboration**, and **engineering foresight**, Team Astralynx envisions a future where recycling technologies empower long-term interplanetary missions — and help redefine sustainability on Earth.  
+
+---
+
+## 📄 License  
+
+This project is released under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.  
