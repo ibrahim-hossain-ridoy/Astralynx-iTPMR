@@ -15,7 +15,11 @@ By transforming waste into usable materials such as **3D printing filament**, **
 
 ## 👥 Meet Our Team — *Astralynx* 🇧🇩
 
-<img width="7559" height="3779" alt="Team Astralynx" src="https://github.com/user-attachments/assets/a0340aff-9d9d-4f1b-ba2c-4787b8afc030" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a0340aff-9d9d-4f1b-ba2c-4787b8afc030" width="85%" alt="Astralynx Team Banner"/>
+  <br>
+  <em>Team Astralynx</em>
+</p>
 
 We are **Team Astralynx** from Bangladesh, competing in the **NASA International Space Apps Challenge 2025** under the *Space Trash Hack* category.  
 Our team combines diverse expertise in **research, programming, data modeling, 3D visualization, and creative design** — united by a shared mission to make space sustainability achievable.  
@@ -99,7 +103,7 @@ The simulation is hosted as an **interactive Streamlit web app**, allowing users
 - Construction: **Aluminum alloy chassis**, titanium reinforcement  
 - Energy Draw: **~5–6 kW** (from Mars habitat power grid)
 
-### 🖼️ Concept Visualization  
+## 🖼️ Concept Visualization  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a0340aff-9d9d-4f1b-ba2c-4787b8afc030" width="85%" alt="iTPMR Concept Render"/>
@@ -108,7 +112,11 @@ The simulation is hosted as an **interactive Streamlit web app**, allowing users
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/xxxx" width
+  <img src="https://github.com/user-attachments/assets/xxxx" width="45%" alt="Plastic Module"/>
+  <img src="https://github.com/user-attachments/assets/yyyy" width="45%" alt="Metal Module"/>
+  <br>
+  <em>Figure 2: Modular components of iTPMR (Plastic & Metal Units).</em>
+</p>
 
 ### 🔄 Shared Waste Input & Sorting  
 - **Universal intake chamber** for mixed waste  
