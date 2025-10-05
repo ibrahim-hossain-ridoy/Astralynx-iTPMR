@@ -163,7 +163,12 @@ iTPMR-NASA-SpaceApps/
 └── README.md
 ```
 ---
-
+## ⚙️ Installation & Running Locally 1. **Clone the repository**
+```
+   git clone https://github.com/YOUR_USERNAME/iTPMR-NASA-SpaceApps.git
+   cd iTPMR-NASA-SpaceApps
+```
+---
 ## 🧭 Challenge: *Space Trash Hack*  
 
 **Question:**  
