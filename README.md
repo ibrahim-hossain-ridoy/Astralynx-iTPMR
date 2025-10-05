@@ -130,11 +130,15 @@ Our proposal is inspired by and aligned with NASA’s ongoing work in **In-Situ 
 
 ---
 
-## 📹 Demo Video  
+## 📹 Video  
 
 🎥 **Experience the iTPMR Simulation and Prototype Overview:**  
 [![iTPMR Demo Video](https://img.youtube.com/vi/35k51J84Ulo/0.jpg)](https://youtu.be/35k51J84Ulo)  
-👉 Watch here: [https://youtu.be/35k51J84Ulo](https://youtu.be/35k51J84Ulo)
+👉 Watch here: [https://youtu.be/35k51J84Ulo](https://youtu.be/35k51J84Ulo 
+
+🎬 **Primary Demonstration Video**  
+[![Extended Presentation](https://img.youtube.com/vi/jrgakZJ1Yeg/0.jpg)](https://www.youtube.com/watch?v=jrgakZJ1Yeg)  
+👉 Watch here: [https://www.youtube.com/watch?v=jrgakZJ1Yeg](https://www.youtube.com/watch?v=jrgakZJ1Yeg)  
 
 ---
 
