@@ -254,7 +254,7 @@ iTPMR-NASA-SpaceApps/
 ```
 2. **Install dependencies**
 ```bash
-   pip3 install -r requirements.txt111
+   pip3 install -r requirements.txt
 ```
 ---
 ## 🧭 Challenge: *Space Trash Hack*  
