@@ -103,19 +103,47 @@ The simulation is hosted as an **interactive Streamlit web app**, allowing users
 - Construction: **Aluminum alloy chassis**, titanium reinforcement  
 - Energy Draw: **~5–6 kW** (from Mars habitat power grid)
 
-## 🖼️ Concept Visualization  
-
+### 🖼️ Concept Visualization  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a0340aff-9d9d-4f1b-ba2c-4787b8afc030" width="85%" alt="iTPMR Concept Render"/>
+  <img alt="iTPMR Blueprint" src="https://github.com/user-attachments/assets/8b2da33a-bb63-43c5-b11a-987884a3f0e1" width="45%"/>
   <br>
-  <em>Figure 1: 3D visualization of the Integrated Tri-Phase Modular Recycler (iTPMR).</em>
+  <em>Figure 1: iTPMR Blueprint.</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/xxxx" width="45%" alt="Plastic Module"/>
-  <img src="https://github.com/user-attachments/assets/yyyy" width="45%" alt="Metal Module"/>
+  <img alt="Universal Shredding Unit" src="https://github.com/user-attachments/assets/a92b0d31-7c27-4044-ab2d-8244f18e5236" width="45%"/>
   <br>
-  <em>Figure 2: Modular components of iTPMR (Plastic & Metal Units).</em>
+  <em>Figure 2: Universal Shredding Unit.</em>
+</p>
+
+<p align="center">
+  <img alt="Plastic Recycling Module" src="https://github.com/user-attachments/assets/8ce118fb-8e73-4a52-87f2-0185c2c7938c" width="45%"/>
+  <br>
+  <em>Figure 3: Plastic Recycling Module.</em>
+</p>
+
+<p align="center">
+  <img alt="Metal Recycling Module" src="https://github.com/user-attachments/assets/1048c9dc-6d38-4cdb-a6ba-73988d2bcb88" width="45%"/>
+  <br>
+  <em>Figure 4: Metal Recycling Module.</em>
+</p>
+
+<p align="center">
+  <img alt="Foam and Plastic Melting Unit" src="https://github.com/user-attachments/assets/cea7329a-f34c-472c-8365-ab519a9fe9f4" width="45%"/>
+  <br>
+  <em>Figure 5: Foam and Plastic Melting Unit.</em>
+</p>
+
+<p align="center">
+  <img alt="Centralized Control and Power System" src="https://github.com/user-attachments/assets/463ef152-5df8-4510-bf80-03f52b31dbd3" width="45%"/>
+  <br>
+  <em>Figure 6: Centralized Control and Power System.</em>
+</p>
+
+<p align="center">
+  <img alt="Unified Gas Filtration Unit" src="https://github.com/user-attachments/assets/5b27a8ca-55ad-4c2d-97f5-a5420a5c6fdb" width="45%"/>
+  <br>
+  <em>Figure 7: Unified Gas Filtration Unit.</em>
 </p>
 
 ### 🔄 Shared Waste Input & Sorting  
@@ -156,7 +184,7 @@ Our proposal is inspired by and aligned with NASA’s ongoing work in **In-Situ 
 👉 Watch here: [https://youtu.be/35k51J84Ulo](https://youtu.be/35k51J84Ulo 
 
 🎬 **Primary Demonstration Video**  
-[![Extended Presentation](https://img.youtube.com/vi/jrgakZJ1Yeg/0.jpg)](https://www.youtube.com/watch?v=jrgakZJ1Yeg)  
+[![Primary Presentation](https://img.youtube.com/vi/jrgakZJ1Yeg/0.jpg)](https://www.youtube.com/watch?v=jrgakZJ1Yeg)  
 👉 Watch here: [https://www.youtube.com/watch?v=jrgakZJ1Yeg](https://www.youtube.com/watch?v=jrgakZJ1Yeg)  
 
 ---
