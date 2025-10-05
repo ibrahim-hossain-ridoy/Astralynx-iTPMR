@@ -97,7 +97,18 @@ The simulation is hosted as an **interactive Streamlit web app**, allowing users
 ### ⚙️ System Overview  
 - Dimensions: **2.0 m × 1.5 m × 1.8 m**  
 - Construction: **Aluminum alloy chassis**, titanium reinforcement  
-- Energy Draw: **~5–6 kW** (from Mars habitat power grid)  
+- Energy Draw: **~5–6 kW** (from Mars habitat power grid)
+
+### 🖼️ Concept Visualization  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a0340aff-9d9d-4f1b-ba2c-4787b8afc030" width="85%" alt="iTPMR Concept Render"/>
+  <br>
+  <em>Figure 1: 3D visualization of the Integrated Tri-Phase Modular Recycler (iTPMR).</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/xxxx" width
 
 ### 🔄 Shared Waste Input & Sorting  
 - **Universal intake chamber** for mixed waste  
