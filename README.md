@@ -129,6 +129,12 @@ The simulation is hosted as an **interactive Streamlit web app**, allowing users
   <em>Figure 4: iTPMR Modular Component Diagram.</em>
 </p>
 
+<p align="center">
+  <img alt="iTPMR Modular Component Diagram" src="https://github.com/ibrahim-hossain-ridoy/Astralynx-iTPMR/blob/7d4df51fe3c0ec810c2da7361d7feeb071d30082/Sankey-style%20flow%20diagram%20%E2%80%94%20Mars%20waste%20%20management%20system%20(assumptions%3A%20total%20%3D%2012%2C600%20kg%20over%203%20years).png" width="45%"/>
+  <br>
+  <em>Figure 4: iTPMR Modular Component Diagram.</em>
+</p>
+
 ### 🔄 Shared Waste Input & Sorting  
 - **Universal intake chamber** for mixed waste  
 - **AI-assisted sorting** with sensors and robotic manipulation  
