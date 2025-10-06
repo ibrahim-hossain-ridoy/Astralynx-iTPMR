@@ -29,7 +29,7 @@ Our team combines diverse expertise in **research, programming, data modeling, 3
 **🧑‍💻 Ibrahim Hossain Ridoy** — *Team Leader, Researcher*  
 Guides the project vision, oversees integration between engineering and scientific domains, and develops the system’s conceptual and simulation framework.  
 
-**🎨 Rafiulla Bari** — *Video Editor, 3D Artist*  
+**🎨 Rafiull Bari** — *Video Editor, 3D Artist*  
 Designs realistic 3D models and animations for system visualization, ensuring complex mechanisms are communicated with clarity and creativity.  
 
 **📊 Amir Hamja** — *Researcher, Data Analyst*  
