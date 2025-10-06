@@ -66,7 +66,7 @@ It uses **realistic engineering assumptions** to calculate recycling efficiency,
 - **Material Recovery Outputs** — Quantifies how much filament, ingot, or composite material can be produced for in-situ use.  
 
 ### 🌐 Web Application  
-
+[Web App](https://python-simulation-hvrfw7unpwa4nenviyvarb.streamlit.app/)
 The simulation is hosted as an **interactive Streamlit web app**, allowing users to:  
 - Adjust mission parameters (waste type, duration, power budget)  
 - Observe dynamic performance graphs and energy analytics  
