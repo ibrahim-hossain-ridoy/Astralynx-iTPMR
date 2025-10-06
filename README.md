@@ -112,9 +112,9 @@ The simulation is hosted as an **interactive Streamlit web app**, allowing users
 </p>
 
 <p align="center">
-  <img alt="iTPMR Component Diagram" src="https://github.com/user-attachments/assets/21182c81-4967-4ebd-8eea-4a687faff0ec" width="45%"/>
+  <img alt="iTPMR Component Flow Diagram" src="https://github.com/user-attachments/assets/21182c81-4967-4ebd-8eea-4a687faff0ec" width="45%"/>
   <br>
-  <em>Figure 2: iTPMR Component Diagram.</em>
+  <em>Figure 2: iTPMR Component Flow Diagram.</em>
 </p>
 
 <p align="center">
@@ -124,15 +124,15 @@ The simulation is hosted as an **interactive Streamlit web app**, allowing users
 </p>
 
 <p align="center">
-  <img alt="iTPMR Modular Component Diagram" src="https://github.com/user-attachments/assets/42873842-1573-4c22-b8e4-03e2e1b31d4d" width="45%"/>
+  <img alt="iTPMR Modular Unit Casing" src="https://github.com/user-attachments/assets/42873842-1573-4c22-b8e4-03e2e1b31d4d" width="45%"/>
   <br>
-  <em>Figure 4: iTPMR Modular Component Diagram.</em>
+  <em>Figure 4: iTPMR Unit Casing.</em>
 </p>
 
 <p align="center">
   <img alt="iTPMR Sankey Diagram" src="https://github.com/ibrahim-hossain-ridoy/Astralynx-iTPMR/blob/7d4df51fe3c0ec810c2da7361d7feeb071d30082/Sankey-style%20flow%20diagram%20%E2%80%94%20Mars%20waste%20%20management%20system%20(assumptions%3A%20total%20%3D%2012%2C600%20kg%20over%203%20years).png" width="45%"/>
   <br>
-  <em>Figure 4: iTPMR Modular Component Diagram.</em>
+  <em>Figure 4: iTPMR Sankey Diagram.</em>
 </p>
 
 ### 🔄 Shared Waste Input & Sorting  
